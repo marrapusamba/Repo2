@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 58B1-2D8F
-
- Directory of C:\Users\URCE\Desktop\MyProject
-
-12-08-2023  10:02    <DIR>          .
-12-08-2023  09:56    <DIR>          ..
-12-08-2023  10:02                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  129,628,524,544 bytes free
+ changed
